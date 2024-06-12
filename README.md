@@ -3,4 +3,4 @@ For intrinsically disordered proteins (IDPs), a pressing question is how sequenc
 
 This work has been published in JCTC (https://pubs.acs.org/doi/abs/10.1021/acs.jctc.2c00328)
 
-A major part of these codes were adapted from Dr Alan Hicks (https://github.com/achicks15/CorrFunction_NMRRelaxation) and further modified to include additional analysis.
+NMR_relaxation_rate.py is the python script used to fit a sum of exponentials to the N-H bond correlation function and calculate the NMR relaxation rates. The jupyter notebook contains a sample fit and calculations for amyloid beta 40. The excel file contains all the data behind the plots in the paper.
